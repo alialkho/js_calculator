@@ -1,2 +1,2 @@
 # js_calculator
-JavaScript Calculator
+Basic JavaScript Calculator built using HTML, CSS, and JavaScript.
